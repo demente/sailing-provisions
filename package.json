@@ -1,0 +1,16 @@
+{
+  "name": "sailing-provisions",
+  "version": "1.0.0",
+  "description": "Generate provisions for sailing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/main.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
