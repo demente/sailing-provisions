@@ -1,1 +1,3 @@
-console.log("hello")
+import { generateRecepies } from "./data/recipes"
+
+generateRecepies()

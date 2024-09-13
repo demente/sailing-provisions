@@ -31,4 +31,4 @@ class ShoppingList {
 
 }
 
-export { FoodItem as GroceryItem, Recipe, ShoppingList }
+export { FoodItem, Recipe, ShoppingList }
